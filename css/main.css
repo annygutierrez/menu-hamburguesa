@@ -63,3 +63,7 @@ a span {
 .enabled-menu {
 	display: block;
 }
+.color {
+	color: red;
+	opacity: 1.0;
+}

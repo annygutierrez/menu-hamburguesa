@@ -17,3 +17,8 @@ var navList = document.getElementsByClassName("nav-list");
 for(var i=0; i< navList.length; i++){
 	navList[i].addEventListener("click", showMenu);
 }
+
+
+
+
+
